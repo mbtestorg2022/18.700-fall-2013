@@ -37,10 +37,63 @@ There will be three eighty-minute exams during the lecture hour, and one three-h
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Problem Sets | 26 |
-| Eighty-minute Exam 1 | 15 |
-| Eighty-minute Exam 2 | 15 |
-| Eighty-minute Exam 3 | 15 |
-| Final Exam | 29
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Sets
+{{< tdclose >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Eighty-minute Exam 1
+{{< tdclose >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Eighty-minute Exam 2
+{{< tdclose >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Eighty-minute Exam 3
+{{< tdclose >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
