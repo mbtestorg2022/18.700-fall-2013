@@ -4,6 +4,7 @@ description: 'This file contains information regarding notes for lecture 8: one-
   inverses.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-700-linear-algebra-fall-2013/d1093d3f7651c8a58f860179ecb8e4ec_MIT18_700F13_one_sided.pdf
 file_type: application/pdf
+parent_uid: 2a547985-ab53-49f1-e9a3-2502cc44bce5
 resourcetype: Document
 title: One-sided Inverses
 uid: d1093d3f-7651-c8a5-8f86-0179ecb8e4ec

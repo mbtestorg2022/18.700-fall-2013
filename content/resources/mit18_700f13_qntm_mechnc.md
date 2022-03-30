@@ -4,6 +4,7 @@ description: This file contains information regarding mathematical formalism of 
   mechanics.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-700-linear-algebra-fall-2013/cc993d0c7953d1aa7d57997b1e43b7da_MIT18_700F13_qntm_mechnc.pdf
 file_type: application/pdf
+parent_uid: 2a547985-ab53-49f1-e9a3-2502cc44bce5
 resourcetype: Document
 title: Mathematical formalism of quantum mechanics
 uid: cc993d0c-7953-d1aa-7d57-997b1e43b7da
